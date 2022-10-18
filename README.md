@@ -21,7 +21,7 @@ Module 3 Deliverable
  ###     4.a) Charles Casper Stockham: 23.0% (85,213)
  ###     4.b) Diana DeGette: 73.8% (272,892)
  ###     4.c) Raymon Anthony Doane: 3.1% (11,606)
- ##   ![Candidate vote count_code](https://user-images.githubusercontent.com/114181709/196310629-573d79dc-9755-415a-bee9-4c291af55ca1.png)
+   ![Candidate vote count_code](https://user-images.githubusercontent.com/114181709/196310629-573d79dc-9755-415a-bee9-4c291af55ca1.png)
 
  ###   5) The winner was Diana DeGette who won with 73.8% of the vote
 
