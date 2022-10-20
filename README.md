@@ -26,8 +26,9 @@ Module 3 Deliverable
 ###   - Charles Casper Stockham: 23.0% (85,213)
 ###   - Diana DeGette: 73.8% (272,892)
 ###   - Raymon Anthony Doane: 3.1% (11,606)
-###   ![Candidate vote count_code](https://user-images.githubusercontent.com/114181709/196310629-573d79dc-9755-415a-bee9-4c291af55ca1.png)
-
+###   ![Candidate vote count part 1](https://user-images.githubusercontent.com/114181709/196833330-e92bcfb8-5e3e-47d4-ae08-189faef9127c.png)
+###   ![Candidate vote count part 2](https://user-images.githubusercontent.com/114181709/196833338-cb5d4c1b-9447-4724-ac3e-f8dec9d3aad3.png)
+###
 ### 5) The winner was Diana DeGette who won with 73.8% of the vote
 
 ### We would recommend that the election committee make use of this script for future elections. The only requirement will be to have the election results be provided in a csv file matching the structure of the one we used for this analysis.
