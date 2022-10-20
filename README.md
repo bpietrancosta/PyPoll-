@@ -31,4 +31,4 @@ Module 3 Deliverable
 ###
 ### 5) The winner was Diana DeGette who won with 73.8% of the vote
 
-### We would recommend that the election committee make use of this script for future elections. The only requirement will be to have the election results be provided in a csv file matching the structure of the one we used for this analysis.
+### We would recommend that the election committee make use of this script for future elections. If the election results csv file are dropped in the same directory, ### then the primary requirement requirement to re-use the script is to ensure that the input file maintains this same structure. 
