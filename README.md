@@ -14,7 +14,7 @@ Module 3 Deliverable
 ###   - In Jefferson county: 10.5% (38,855)
 ###   - In Denver county: 82.8% (306,055)
 ###   - In Arapahoe county: 6.7% (24,801)    
-###    ![County vote count_code](https://user-images.githubusercontent.com/114181709/196832866-25fe273f-bf1a-4a15-90b2-1fd38b2fc13d.png)
+###    ![County vote count_code (2)](https://user-images.githubusercontent.com/114181709/196833039-afc0832a-23b8-4a70-bb50-7d444e5a2079.png)
 ###
 ###
 ### 3) Denver had the largest number of votes with 306,055: 
@@ -28,6 +28,6 @@ Module 3 Deliverable
 ###   - Raymon Anthony Doane: 3.1% (11,606)
 ###   ![Candidate vote count_code](https://user-images.githubusercontent.com/114181709/196310629-573d79dc-9755-415a-bee9-4c291af55ca1.png)
 
-###   5) The winner was Diana DeGette who won with 73.8% of the vote
+### 5) The winner was Diana DeGette who won with 73.8% of the vote
 
 ### We would recommend that the election committee make use of this script for future elections. The only requirement will be to have the election results be provided in a csv file matching the structure of the one we used for this analysis.
