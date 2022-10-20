@@ -6,7 +6,8 @@ Module 3 Deliverable
 ## Diving into the election results:
 
 ### 1) There were 369711 votes casted during this election cycle.
-###    ![Vote count_code](https://user-images.githubusercontent.com/114181709/196309932-85d22a7f-f262-4f9c-bea0-91d8d98368f1.png)
+###    ![Vote count_code](https://user-images.githubusercontent.com/114181709/196832223-493623de-3156-479c-9173-e937b6befd56.png)
+###
 ###
 ###
 ### 2) There were votes casted in 3 counties:
