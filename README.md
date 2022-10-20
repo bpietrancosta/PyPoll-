@@ -16,8 +16,9 @@ Module 3 Deliverable
 ###     ![County vote count_code](https://user-images.githubusercontent.com/114181709/196310342-05c47386-a1a6-4bc4-bece-0de6a2fe5d92.png)
 ###
 ###
-### 3) Denver had the largest number of votes with 306,055 
-###    ![Uploading Largest county vote count_code.png…]()
+### 3) Denver had the largest number of votes with 306,055: 
+###    ![Largest county vote count_code (2)](https://user-images.githubusercontent.com/114181709/196831899-b2f01c47-7890-4157-8e6d-bc59e0f2fa2c.png)
+###
 ###
 ###
 ### 4) There were 3 candidates which received the following votes:
