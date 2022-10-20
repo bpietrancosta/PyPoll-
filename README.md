@@ -13,8 +13,8 @@ Module 3 Deliverable
 ### 2) There were votes casted in 3 counties:
 ###   - In Jefferson county: 10.5% (38,855)
 ###   - In Denver county: 82.8% (306,055)
-###   - In Arapahoe county: 6.7% (24,801)
-###     ![County vote count_code](https://user-images.githubusercontent.com/114181709/196310342-05c47386-a1a6-4bc4-bece-0de6a2fe5d92.png)
+###   - In Arapahoe county: 6.7% (24,801)    
+###    ![County vote count_code](https://user-images.githubusercontent.com/114181709/196832866-25fe273f-bf1a-4a15-90b2-1fd38b2fc13d.png)
 ###
 ###
 ### 3) Denver had the largest number of votes with 306,055: 
